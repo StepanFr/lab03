@@ -1,0 +1,7 @@
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_build/CMakeFiles/print.dir
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_build/CMakeFiles/edit_cache.dir
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_build/CMakeFiles/rebuild_cache.dir
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_build/CMakeFiles/list_install_components.dir
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_build/CMakeFiles/install.dir
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_build/CMakeFiles/install/local.dir
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_build/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_install/lib/libprint.a
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_install/include/print.hpp
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_install/cmake/print-config.cmake
+/home/stepik/StepanFr/workspace/projects/lab03/projects/lab03/_install/cmake/print-config-noconfig.cmake
